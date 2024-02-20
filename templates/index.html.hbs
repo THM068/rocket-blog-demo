@@ -1,0 +1,9 @@
+{{#*inline "page"}}
+
+  <h3>{{title}}</h3>
+  <div hx-get="/load" hx-trigger="load" hx-swap="innerHTML">
+    load rows to be deleted
+  </div>
+
+{{/inline}}
+{{> layouts/main}}

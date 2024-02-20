@@ -1,0 +1,67 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/"
+         hx-push-url="true"
+         hx-get="/"
+         hx-trigger="click"
+         hx-target="#parent-div"
+         hx-swap="innerHTML"
+      >
+        RUST HTMX
+      </a>
+    </div>
+    <div id="navbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li class="active">
+          <a href="/"
+             hx-push-url="true"
+             hx-get="/"
+             hx-trigger="click"
+             hx-target="#parent-div"
+             hx-swap="innerHTML">
+            Home
+          </a>
+        </li>
+        <li>
+          <a href="/about"
+             hx-push-url="true"
+             hx-get="/about"
+             hx-trigger="click"
+             hx-target="#parent-div"
+             hx-swap="innerHTML">
+            About
+          </a>
+        </li>
+        <li>
+          <a href="/contact"
+             hx-push-url="true"
+             hx-get="/contact"
+             hx-trigger="click"
+             hx-target="#parent-div"
+             hx-swap="innerHTML"
+          >
+            Contact
+          </a>
+        </li>
+        <li>
+          <a href="/url-shortner"
+             hx-push-url="true"
+             hx-get="/url-shortner"
+             hx-trigger="click"
+             hx-target="#parent-div"
+             hx-swap="innerHTML"
+          >
+            Url-shortner
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,12 @@
+{{#*inline "page"}}
+
+  <h3>Url shortner</h3>
+  <form hx-post="/url-shortner"
+        hx-target="#shortened-url"
+        hx-swap="innerHTML">
+    <input type="text" name="url" placeholder="Enter URL" />
+    <button type="submit">Shorten</button>
+  </form>
+  <div id="shortened-url"></div>
+{{/inline}}
+{{> layouts/main}}

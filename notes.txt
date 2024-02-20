@@ -1,0 +1,5 @@
+run this to do the migratiion :
+DATABASE_URL="mysql://root:@localhost:3306/posts" sea-orm-cli migrate refresh
+
+Generate entities from the database schema:
+sea-orm-cli generate entity -u mysql://root:@localhost:3306/posts -o src/entities

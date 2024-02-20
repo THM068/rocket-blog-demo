@@ -1,0 +1,9 @@
+/Users/tma24/private_projects/learn-rust/blog-demo/migration/target/debug/deps/libsea_query_derive-d96485ca25934f8b.dylib: /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/lib.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/error.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_attr.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_path.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_variant.rs
+
+/Users/tma24/private_projects/learn-rust/blog-demo/migration/target/debug/deps/sea_query_derive-d96485ca25934f8b.d: /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/lib.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/error.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_attr.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_path.rs /Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_variant.rs
+
+/Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/lib.rs:
+/Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/error.rs:
+/Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_attr.rs:
+/Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_path.rs:
+/Users/tma24/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sea-query-derive-0.4.1/src/iden_variant.rs:

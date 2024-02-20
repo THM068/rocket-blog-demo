@@ -1,0 +1,1 @@
+/Users/tma24/private_projects/learn-rust/blog-demo/migration/target/debug/libmigration.rlib: /Users/tma24/private_projects/learn-rust/blog-demo/migration/src/lib.rs /Users/tma24/private_projects/learn-rust/blog-demo/migration/src/m20220101_000001_create_table.rs

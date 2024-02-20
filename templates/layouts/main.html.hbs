@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{title}}</title>
+  <link rel="stylesheet" href="/public/css/bootstrap.min.css">
+  <style>
+    body {
+      padding-top: 50px;
+    }
+  </style>
+</head>
+<body>
+  {{> layouts/nav}}
+  <div class="container" id="parent-div">
+    {{~> page}}
+  </div>
+
+
+
+  <footer>
+    <!-- Site footer content -->
+  </footer>
+  <script src="/public/js/htmx.min.js"></script>
+</body>
+</html>
